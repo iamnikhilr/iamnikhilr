@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamnikhilr
-- 👀 I’m interested in surfung
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on cyber security
 - 📫 How to reach me 
